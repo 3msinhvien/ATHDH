@@ -1,0 +1,9 @@
+bash
+sudo
+htop
+atop
+smem
+pmap
+cgcreate
+cgset
+cgclassify
